@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/123dx-svg/123dx-svg/main/game.gif" alt="Space Shooter" width="100%" />
+<img src="https://raw.githubusercontent.com/123dx-svg/123dx-svg/main/game.webp" alt="Space Shooter" width="100%" />
 
 </div>
 
