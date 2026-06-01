@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hey 👋 I'm DevZero
+# Hey 👋 I'm Dev_Zero
+
+<img src="https://raw.githubusercontent.com/123dx-svg/123dx-svg/main/game.webp" alt="Space Shooter" width="100%" />
 
 **Unreal Engine Developer · C++ · 3D/GIS · AI Tools**
 
@@ -12,14 +14,12 @@
 
 ---
 
-### 🎯 What I Do
+### 🧑‍💻 About Me
 
-专注于 **Unreal Engine 5** 插件与工具链开发，为数字孪生和仿真平台提供高效的 3D 资产管线：
-
-- 🔌 UE5 编辑器插件（网格导出、缩略图渲染、AI 辅助工具）
-- 🌍 运行时地形生成（DEM/DOM GeoTIFF、OSGB 倾斜摄影）
-- 🤖 AI Agent 系统设计与 Workflow 集成
-- 🎮 游戏开发（GAS、MOBA）
+- 🔌 Specialties: **UE C++** / **C++** / **Python** / **TypeScript**
+- 🚀 With enough tokens, I can do *anything*. Literally.
+- 🎮 Building tools for digital twins, simulation platforms, and game dev
+- 🌍 Runtime terrain generation (DEM/OSGB), AI agent workflows, mesh export pipelines
 
 ---
 
@@ -27,10 +27,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[ExportMeshExtra](https://github.com/123dx-svg/ExportMeshExtra)** | 网格导出 + GLB 批量 LOD + 缩略图导出插件 | C++ · UE5.2 |
+| **[ExportMeshExtra](https://github.com/123dx-svg/ExportMeshExtra)** | Mesh export + GLB batch LOD + thumbnail exporter | C++ · UE5.2 |
 | **[SmithUE](https://github.com/123dx-svg/SmithUE)** | Full-stack AI tool service plugin for UE5 | C++ · AI |
-| **[RuntimeDEMLandscape](https://github.com/123dx-svg/RuntimeDEMLandscape)** | 运行时 DEM/OSGB 地形生成 | C++ · GIS |
-| **[AISystemDesignPattern](https://github.com/123dx-svg/AISystemDesignPattern)** | AI Workflow 设计模式 | Python · Jupyter |
+| **[RuntimeDEMLandscape](https://github.com/123dx-svg/RuntimeDEMLandscape)** | Runtime DEM/OSGB terrain generation | C++ · GIS |
+| **[AISystemDesignPattern](https://github.com/123dx-svg/AISystemDesignPattern)** | AI Workflow design patterns | Python · Jupyter |
 
 ---
 
@@ -45,13 +45,10 @@
 
 ---
 
-### 🚀 Space Shooter
+### 📫 Find Me
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/123dx-svg/123dx-svg/main/game.webp" alt="Space Shooter" width="100%" />
-
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-1175602821dingxiao@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:1175602821dingxiao@gmail.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Dev__Zero-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/574333335)
 
 ---
 
