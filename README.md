@@ -38,8 +38,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=123dx-svg&show_icons=true&theme=tokyonight&border_radius=10&hide_title=true" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123dx-svg&layout=compact&theme=tokyonight&border_radius=10" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=123dx-svg&show_icons=true&theme=tokyonight&border_radius=10&hide_title=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=123dx-svg&layout=compact&theme=tokyonight&border_radius=10" height="160" alt="Top Languages" />
 
 </div>
 
