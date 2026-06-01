@@ -22,7 +22,7 @@
 - 🚀 With enough tokens, I can do *anything*. Literally.
 - 🎮 Building tools for digital twins, simulation platforms, and game dev
 - 🌍 Runtime terrain generation (DEM/OSGB), AI agent workflows, mesh export pipelines
-- 🏔️ Hobbies: Hiking, mountaineering, gaming, and sleeping 💤
+- 🏔️ Hobbies: Hiking, Mountaineering, Gaming,Investing and Sleeping 💤
 
 ---
 
