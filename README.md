@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋 I'm Dev_Zero
+# Hey 👋 I'm DingXiao
 
 **Unreal Engine Developer · C++ · 3D/GIS · AI Tools**
 
@@ -49,8 +49,7 @@
 
 <div align="center">
 
-<!--START_SECTION:space-shooter-->
-<!--END_SECTION:space-shooter-->
+<img src="./game.gif" alt="Space Shooter" width="100%" />
 
 </div>
 
